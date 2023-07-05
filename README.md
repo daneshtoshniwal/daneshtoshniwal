@@ -1,6 +1,8 @@
 # Danesh Toshniwal
 ### IIIT Bangalore
 
+![](https://komarev.com/ghpvc/?username=daneshtoshniwal)
+
 I am a passionate CSE student with a strong inclination towards learning and exploring new technologies.
 As an avid learner, I am always eager to delve into different programming languages, frameworks, and tools, and put them into practice.
 
@@ -71,10 +73,6 @@ As an avid learner, I am always eager to delve into different programming langua
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daneshtoshniwal)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<p> 
-  Visitors(from Nov 15, 2022):<br>
-  <img src="https://profile-counter.glitch.me/daneshtoshniwal/count.svg" />
-</p>
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
