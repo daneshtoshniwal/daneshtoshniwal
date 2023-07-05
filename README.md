@@ -66,8 +66,26 @@ As an avid learner, I am always eager to delve into different programming langua
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=daneshtoshniwal&repo=ALP_Implementation)](https://github.com/daneshtoshniwal/ALP_Implementation)
 
 
+## Github Stats
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daneshtoshniwal)](https://github.com/anuraghazra/github-readme-stats)
 
 
+<p> 
+  Visitors(from Nov 15, 2022):<br>
+  <img src="https://profile-counter.glitch.me/daneshtoshniwal/count.svg" />
+</p>
+
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+
+
+## Connect with me  
+<div align="center">
+<a href="https://github.com/daneshtoshniwal" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://www.linkedin.com/in/danesh-toshniwal-102484223/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div> 
